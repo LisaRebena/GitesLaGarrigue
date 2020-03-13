@@ -1,0 +1,16 @@
+.jumbotron{
+	background-image: url(img/all.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+    height: 450px;
+}
+
+.body {
+    font-size: 1em;
+}
+
+#card-deck i{
+
+    font-size: 4em;
+}
+
